@@ -40,7 +40,7 @@ createPlatform(10,10, 45, 20)
 
 
     // TODO 3 - Create Collectables
-
+createCollectable()
 
 
     

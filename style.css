@@ -1,0 +1,63 @@
+ <link rel="stylesheet" href="style.css">
+                               </head>
+                     body {
+             
+                    
+       background: rgb(148,245,169);
+       color: rgb(148,179,169)
+       padding: 10px;
+       font-family: arial:
+    }
+   #all-contents {
+     max-width: 800px;
+       margin: auto;
+   }   
+    
+
+
+   /* navigation menu */
+   nav {
+       background: rgb(159, 238, 238);
+      color: rgb(148,179,169)
+     margin: 0 auto;} 
+       display: flex;
+       padding: 10px;
+       font-family: arial:
+
+       
+}
+
+main{
+background: rgb(148,245, 169)
+ color: rgb(148,179,209)
+ padding: 20px
+  margin: 0 auto;
+  max-width: 800px;
+  font-family: arial;
+}
+
+/* portfolio styles */
+         .content h1 {
+             color: black;
+         }
+
+         #portfolio {
+             list-style-type: none;
+             padding-left: 0;
+         }
+
+         #portfolio li {
+             background: #fff;
+             padding: 10px;
+             border-radius: 10px;
+             margin-bottom: 10px;
+         }
+
+         #portfolio li:hover {
+             background: #eee;
+         }
+
+         #portfolio a {
+             text-decoration: none;
+             color: #454545;
+         }
