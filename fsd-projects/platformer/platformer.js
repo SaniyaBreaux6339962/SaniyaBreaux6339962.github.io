@@ -46,9 +46,9 @@ createCollectable("max", 1000, 300);
 createCollectable("diamond", 600, 600);
     
     // TODO 4 - Create Cannons
-createCannpn("top", x, delay);
-createCannon("bottom", y, delay);
-createCannon("left",x, delay);
+createCannon("top", x,100 );
+createCannon("right", y,600);
+createCannon("left",x,500);
     
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
